@@ -1,4 +1,7 @@
 # phone-number-prefixes
+
+[![GitHub stars](https://img.shields.io/github/stars/etheocledk/phone-number-prefixes.svg?style=social&label=Star&maxAge=2592000)](https://github.com/etheocledk/phone-number-prefixes/stargazers/)
+
 A collaborative repository for managing phone number prefixes by gateway and country.
 
 This repository is dedicated to managing and organizing phone number prefixes by gateway and country. Our goal is to create a comprehensive and accurate list that can be used for various telecommunication and data processing needs.
